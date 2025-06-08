@@ -103,9 +103,11 @@ config_local.py
 secrets.json
 .streamlit/secrets.toml
 
-# Data files (PDF sources - too large for Git)
-data/pdfs/
-data/raw/
+# Data files (PDF sources - too large for Git and Streamlit Cloud)
+data/
+*.pdf
+*.docx
+*.xlsx
 
 # Cache directories
 .cache/
