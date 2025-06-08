@@ -1,0 +1,10 @@
+{
+  "YC5194": {
+    "question": "Какие характеристики штамма Lysobacter capsici YC5194?",
+    "error": "'EnhancedRAGPipeline' object has no attribute 'query'"
+  },
+  "GW1-59T": {
+    "question": "Что известно о штамме GW1-59T?",
+    "error": "'EnhancedRAGPipeline' object has no attribute 'query'"
+  }
+}

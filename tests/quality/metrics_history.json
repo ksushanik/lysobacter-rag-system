@@ -1,0 +1,203 @@
+{
+  "baseline": {
+    "date": "2025-06-08",
+    "overall_score": 32.0,
+    "strain_scores": {
+      "YC5194": 31.2,
+      "GW1-59T": 32.5
+    },
+    "coverage_by_category": {
+      "classification": 50.0,
+      "origin": 37.5,
+      "morphology": 0.0,
+      "growth_conditions": 0.0,
+      "biochemistry": 0.0,
+      "chemotaxonomy": 25.0,
+      "genomics": 0.0,
+      "biological_activity": 25.0
+    },
+    "response_times": {
+      "search_time": 2500,
+      "analysis_time": 1200,
+      "total_time": 3700
+    }
+  },
+  "history": [
+    {
+      "iteration_name": "Базовая линия",
+      "date": "2025-06-08 03:26:28",
+      "overall_score": 0,
+      "strain_scores": {},
+      "coverage_scores": {
+        "classification": 0,
+        "origin": 0,
+        "morphology": 0,
+        "growth_conditions": 0,
+        "biochemistry": 0,
+        "chemotaxonomy": 0,
+        "genomics": 0,
+        "biological_activity": 0
+      },
+      "confidence_scores": {},
+      "accuracy_scores": {},
+      "response_time_ms": 0.0,
+      "regression_count": 0,
+      "notes": ""
+    },
+    {
+      "iteration_name": "Базовая линия",
+      "date": "2025-06-08 03:35:31",
+      "overall_score": 30.625,
+      "strain_scores": {
+        "YC5194_0": 42.5,
+        "GW1-59T_1": 27.5,
+        "YC5194_2": 25.0,
+        "GW1-59T_3": 27.5
+      },
+      "coverage_scores": {
+        "classification": 50.0,
+        "origin": 100.0,
+        "morphology": 100.0,
+        "growth_conditions": 50.0,
+        "biochemistry": 0.0,
+        "chemotaxonomy": 25.0,
+        "genomics": 0.0,
+        "biological_activity": 25.0
+      },
+      "confidence_scores": {
+        "YC5194_0": 22.5,
+        "GW1-59T_1": 17.5,
+        "YC5194_2": 12.5,
+        "GW1-59T_3": 17.5
+      },
+      "accuracy_scores": {},
+      "response_time_ms": 8012.821733951569,
+      "regression_count": 0,
+      "notes": ""
+    },
+    {
+      "iteration_name": "Итерация 1: BacDive",
+      "date": "2025-06-08 03:49:17",
+      "overall_score": 41.65,
+      "strain_scores": {
+        "YC5194_0": 53.5,
+        "GW1-59T_1": 35.0,
+        "YC5194_2": 38.5,
+        "GW1-59T_3": 39.6
+      },
+      "coverage_scores": {
+        "classification": 50.0,
+        "origin": 100.0,
+        "morphology": 100.0,
+        "growth_conditions": 100.0,
+        "biochemistry": 0.0,
+        "chemotaxonomy": 75.0,
+        "genomics": 0.0,
+        "biological_activity": 25.0
+      },
+      "confidence_scores": {
+        "YC5194_0": 32.0,
+        "GW1-59T_1": 20.0,
+        "YC5194_2": 27.0,
+        "GW1-59T_3": 29.200000000000003
+      },
+      "accuracy_scores": {},
+      "response_time_ms": 7687.337279319763,
+      "regression_count": 0,
+      "notes": ""
+    },
+    {
+      "iteration_name": "Итерация 1",
+      "date": "2025-06-08 04:12:34",
+      "overall_score": 37.0625,
+      "strain_scores": {
+        "YC5194_0": 54.75,
+        "GW1-59T_1": 26.25,
+        "YC5194_2": 38.5,
+        "GW1-59T_3": 28.75
+      },
+      "coverage_scores": {
+        "classification": 50.0,
+        "origin": 100.0,
+        "morphology": 100.0,
+        "growth_conditions": 100.0,
+        "biochemistry": 0.0,
+        "chemotaxonomy": 25.0,
+        "genomics": 0.0,
+        "biological_activity": 25.0
+      },
+      "confidence_scores": {
+        "YC5194_0": 34.5,
+        "GW1-59T_1": 15.0,
+        "YC5194_2": 27.0,
+        "GW1-59T_3": 20.0
+      },
+      "accuracy_scores": {},
+      "response_time_ms": 8571.670174598694,
+      "regression_count": 0,
+      "notes": ""
+    },
+    {
+      "iteration_name": "Итерация 1",
+      "date": "2025-06-08 04:24:50",
+      "overall_score": 64.25,
+      "strain_scores": {
+        "YC5194_0": 57.25,
+        "GW1-59T_1": 66.0,
+        "YC5194_2": 55.75,
+        "GW1-59T_3": 78.0
+      },
+      "coverage_scores": {
+        "classification": 100.0,
+        "origin": 100.0,
+        "morphology": 100.0,
+        "growth_conditions": 100.0,
+        "biochemistry": 50.0,
+        "chemotaxonomy": 100.0,
+        "genomics": 0.0,
+        "biological_activity": 25.0
+      },
+      "confidence_scores": {
+        "YC5194_0": 39.5,
+        "GW1-59T_1": 56.99999999999999,
+        "YC5194_2": 49.0,
+        "GW1-59T_3": 81.0
+      },
+      "accuracy_scores": {},
+      "response_time_ms": 7893.528640270233,
+      "regression_count": 0,
+      "notes": ""
+    },
+    {
+      "iteration_name": "Итерация 1",
+      "date": "2025-06-08 04:58:42",
+      "overall_score": 61.5,
+      "strain_scores": {
+        "YC5194_0": 57.25,
+        "GW1-59T_1": 63.5,
+        "YC5194_2": 54.5,
+        "GW1-59T_3": 70.75
+      },
+      "coverage_scores": {
+        "classification": 100.0,
+        "origin": 100.0,
+        "morphology": 100.0,
+        "growth_conditions": 100.0,
+        "biochemistry": 50.0,
+        "chemotaxonomy": 100.0,
+        "genomics": 0.0,
+        "biological_activity": 25.0
+      },
+      "confidence_scores": {
+        "YC5194_0": 39.5,
+        "GW1-59T_1": 52.0,
+        "YC5194_2": 46.5,
+        "GW1-59T_3": 66.5
+      },
+      "accuracy_scores": {},
+      "response_time_ms": 8585.922956466675,
+      "regression_count": 0,
+      "notes": ""
+    }
+  ]
+}

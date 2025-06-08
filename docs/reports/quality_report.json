@@ -1,0 +1,128 @@
+{
+  "overall_quality": 59.733333333333334,
+  "status": "medium",
+  "total_chunks": 7968,
+  "quality_issues": {
+    "слитные_слова": 46,
+    "разорванные_единицы": 1,
+    "разорванные_формулы": 2,
+    "разорванные_штаммы": 1
+  },
+  "scientific_quality": {
+    "Lysobacter": 100.0,
+    "sp. nov": 20.0,
+    "type strain": 20.0,
+    "16S rRNA": 100.0,
+    "DNA-DNA hybridization": 20.0,
+    "phylogenetic": 80.0,
+    "chemotaxonomic": 0.0,
+    "phenotypic": 40.0,
+    "genotypic": 0.0,
+    "taxonomy": 0.0
+  },
+  "strain_issues": {},
+  "numerical_quality": {
+    "температура": 0.0,
+    "pH": 0.5,
+    "геном": 0.0
+  },
+  "recommendations": [
+    "🔧 Приоритет: исправить слитные_слова (46 случаев)",
+    "📚 Улучшить обработку терминов: sp. nov, type strain, DNA-DNA hybridization",
+    "🔢 Улучшить извлечение числовых данных: температура, pH, геном",
+    "🚀 Рекомендуется переиндексация с улучшенным экстрактором"
+  ],
+  "problematic_chunks": [
+    {
+      "query": "temperature growth",
+      "rank": 5,
+      "text_preview": "(Difco), but does not grow on MacConkey agar (Difco).\nstrain’snameandDrChengxiangFang(CCTCC,WuhanUni...",
+      "issues": {
+        "слитные_слова": 1
+      },
+      "relevance": 0.43591964414437995
+    },
+    {
+      "query": "NaCl tolerance",
+      "rank": 3,
+      "text_preview": "andinthepresenceof0–1.5%(w/v)NaCl(optimalgrowthat\nating, referring to its ability to tolerate HCH\n0%...",
+      "issues": {
+        "слитные_слова": 1
+      },
+      "relevance": 0.44947373391696926
+    },
+    {
+      "query": "NaCl tolerance",
+      "rank": 4,
+      "text_preview": "andinthepresenceof0–1.5%(w/v)NaCl(optimalgrowthat\nating, referring to its ability to tolerate HCH\n0%...",
+      "issues": {
+        "слитные_слова": 1
+      },
+      "relevance": 0.44947373391696926
+    },
+    {
+      "query": "genome size",
+      "rank": 4,
+      "text_preview": "The genome contains 2487 coding sequences, which accounts for 90.1 % of the total genome. A total of...",
+      "issues": {
+        "разорванные_единицы": 1
+      },
+      "relevance": 0.45730075349343013
+    },
+    {
+      "query": "oxidase",
+      "rank": 1,
+      "text_preview": "not yet been confirmed and its name has not been validly Bowman (2000). Oxidase activity was evaluat...",
+      "issues": {
+        "слитные_слова": 2
+      },
+      "relevance": 0.46042464817405543
+    },
+    {
+      "query": "oxidase",
+      "rank": 2,
+      "text_preview": "Lysobacterrhizophilussp.nov.\nHee University, Yongin, South Korea (5 October 2015) oxidaseactivitywas...",
+      "issues": {
+        "слитные_слова": 1
+      },
+      "relevance": 0.44905475288301244
+    },
+    {
+      "query": "catalase",
+      "rank": 1,
+      "text_preview": "’sucitylenisoryt.L‘,7;T64671CCAKearret.L,6;44581CCAK’eareahpsozihr.L‘,5;T35541CCAKeazyro.L,4;T78511C...",
+      "issues": {
+        "слитные_слова": 2
+      },
+      "relevance": 0.48864124425862226
+    },
+    {
+      "query": "catalase",
+      "rank": 4,
+      "text_preview": "DESCRIPTION OF LYSOBACTER OLEI SP. NOV.\nTween 80, starch, aesculin, CM-cellulose, tyrosine and chi-\n...",
+      "issues": {
+        "слитные_слова": 1
+      },
+      "relevance": 0.48620933199969235
+    },
+    {
+      "query": "catalase",
+      "rank": 5,
+      "text_preview": "representunculturedspecies.IntJSystEvolMicrobiol62,716–721.\npotassium 5-ketogluconate, 3-hydroxybenz...",
+      "issues": {
+        "слитные_слова": 3
+      },
+      "relevance": 0.4823207339126795
+    },
+    {
+      "query": "fatty acids",
+      "rank": 1,
+      "text_preview": "phospholipids. The major fatty acids are iso-C ,\n15:0 thesecondarymetabolitegenomeminingpipeline.Nuc...",
+      "issues": {
+        "разорванные_формулы": 2,
+        "слитные_слова": 2
+      },
+      "relevance": 0.452091709543713
+    }
+  ]
+}

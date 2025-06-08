@@ -1,0 +1,14 @@
+{
+  "YC5194": {
+    "question": "Какие характеристики штамма Lysobacter capsici YC5194?",
+    "error": "Пустой контекст",
+    "rag_confidence": 0.5121191701772623,
+    "sources_count": 15
+  },
+  "GW1-59T": {
+    "question": "Что известно о штамме GW1-59T?",
+    "error": "Пустой контекст",
+    "rag_confidence": 0.4920249591302923,
+    "sources_count": 15
+  }
+}

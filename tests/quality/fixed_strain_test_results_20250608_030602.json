@@ -1,0 +1,59 @@
+{
+  "YC5194": {
+    "question": "Какие характеристики штамма Lysobacter capsici YC5194?",
+    "structured_answer": "## 🧬 Lysobacter capsici YC5194\n\n### 📍 Происхождение и классификация\n- **Species**: Lysobacter capsici sp. nov.\n- **Type Strain**: type strain\n\n### 🔬 Морфологические характеристики  \n❌ Информация о морфологии отсутствует\n\n### 🌡️ Условия роста\n❌ Информация о условий роста отсутствует\n\n### ⚗️ Биохимические свойства\n❌ Информация о биохимических свойств отсутствует\n\n### 🧪 Хемотаксономические данные\n- **Quinones**: quinone of strain YS -37 [T] was Q -8, which is typical of 57 *Luteimonas cucumeris* Y -4 [T] (HQ874629) *55 *Luteimonas aquatica* RIB1-20 [T] (EF626688) *Luteimonas vadosa* KMM9005 [T] (AB704915) *Luteimonas aestuarii* B -9 [T] (EF660758) *77 *Luteimonas abyssi* XH031 [T] (KQ759763)\n\nThe nearly completed 16 S r RNA gene sequence (1506 bp) of strain YS -37 [T] was aligned with those [from Ez Taxon database (http://eztaxon - e\n\n### 🧬 Геномные характеристики\n❌ Информация о геномных характеристик отсутствует\n\n### 🦠 Биологическая активность\n- **Antimicrobial**: antimicrobial activity, isolated from the rhizosphere of pepper, and emended description of the genus Lysobacter\n\n### ✨ Уникальные особенности\n❌ Уникальные особенности не выявлены",
+    "context_length": 10746,
+    "structure_confidence": 0.125,
+    "chunks_count": 21,
+    "categories_filled": 4,
+    "strain_characteristics": {
+      "classification": {
+        "species": "Lysobacter capsici sp. nov.",
+        "type_strain": "type strain"
+      },
+      "origin": {
+        "location": "from the most closed *L. pocheonensis* KCTC ­12624 [T] which has summed feature 9 (Siddiqi and Im 2016). The only respiratory quinone of strain YS -37 [T] was Q -8, which is typical of 57 *Luteimonas cucumeris* Y -4 [T] (HQ874629) *55 *Luteimonas aquatica* RIB1-20 [T] (EF626688) *Luteimonas vadosa* KMM9005 [T] (AB704915) *Luteimonas aestuarii* B -9 [T] (EF660758) *77 *Luteimonas abyssi* XH031 [T] (KQ759763)\n\nThe nearly completed 16 S r RNA gene sequence (1506 bp) of strain YS -37 [T] was aligned with those [from Ez Taxon database (http://eztaxon - e"
+      },
+      "morphology": {},
+      "growth_conditions": {},
+      "biochemical": {},
+      "chemotaxonomy": {
+        "quinones": "quinone of strain YS -37 [T] was Q -8, which is typical of 57 *Luteimonas cucumeris* Y -4 [T] (HQ874629) *55 *Luteimonas aquatica* RIB1-20 [T] (EF626688) *Luteimonas vadosa* KMM9005 [T] (AB704915) *Luteimonas aestuarii* B -9 [T] (EF660758) *77 *Luteimonas abyssi* XH031 [T] (KQ759763)\n\nThe nearly completed 16 S r RNA gene sequence (1506 bp) of strain YS -37 [T] was aligned with those [from Ez Taxon database (http://eztaxon - e"
+      },
+      "genomics": {},
+      "biological_activity": {
+        "antimicrobial": "antimicrobial activity, isolated from the rhizosphere of pepper, and emended description of the genus Lysobacter"
+      },
+      "unique_features": []
+    }
+  },
+  "GW1-59T": {
+    "question": "Что известно о штамме GW1-59T?",
+    "structured_answer": "## 🧬 GW1-59T\n\n### 📍 Происхождение и классификация\n- **Species**: Lysobacter psychrotolerans sp. nov.\n- **Type Strain**: type strain\n\n### 🔬 Морфологические характеристики  \n❌ Информация о морфологии отсутствует\n\n### 🌡️ Условия роста\n❌ Информация о условий роста отсутствует\n\n### ⚗️ Биохимические свойства\n❌ Информация о биохимических свойств отсутствует\n\n### 🧪 Хемотаксономические данные\n- **Quinones**: quinones, cells grown exponentially in iso - C15: 0!9 c 4\n\n### 🧬 Геномные характеристики\n❌ Информация о геномных характеристик отсутствует\n\n### 🦠 Биологическая активность\n- **Antimicrobial**: antimicrobial activity, isolated from the rhizosphere of pepper and emended description of the genus Lysobacter\n\n### ✨ Уникальные особенности\n❌ Уникальные особенности не выявлены",
+    "context_length": 22676,
+    "structure_confidence": 0.15,
+    "chunks_count": 23,
+    "categories_filled": 4,
+    "strain_characteristics": {
+      "classification": {
+        "species": "Lysobacter psychrotolerans sp. nov.",
+        "type_strain": "type strain"
+      },
+      "origin": {
+        "location": "from genome data (Table 1). The core genomes of the novel strain GW1- ­59 [T] and the nearest *[Lysobacter](http://doi.org/10.1601/nm.2240)* species contained 1650 genes, and 220 genes were indicated a N O reduction detected to be specific to the novel strain (Fig",
+        "environment": "marine"
+      },
+      "morphology": {},
+      "growth_conditions": {},
+      "biochemical": {},
+      "chemotaxonomy": {
+        "quinones": "quinones, cells grown exponentially in iso - C15: 0!9 c 4"
+      },
+      "genomics": {},
+      "biological_activity": {
+        "antimicrobial": "antimicrobial activity, isolated from the rhizosphere of pepper and emended description of the genus Lysobacter"
+      },
+      "unique_features": []
+    }
+  }
+}
