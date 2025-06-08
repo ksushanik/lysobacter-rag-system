@@ -1,49 +1,16 @@
-# Основные зависимости для RAG-системы обработки PDF лизобактов
-
-# Работа с PDF
-PyMuPDF==1.23.14
-pdfplumber==0.10.4
-camelot-py[cv]==0.10.1
-
-# Нечеткий поиск заголовков
-thefuzz==0.20.0
-python-Levenshtein==0.23.0
-
-# Обработка данных
+streamlit==1.30.0
+sentence-transformers==4.1.0
+chromadb==0.4.22
+httpx==0.28.1
+requests==2.32.3
 pandas==2.1.4
-numpy==1.24.4
-
-# Разделение текста на чанки и обработка
+numpy==1.26.4
+loguru==0.7.2
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+pypdf==5.6.0
+pdfplumber==0.11.6
+thefuzz==0.20.0
 langchain==0.1.4
 langchain-community==0.0.16
-langchain-openai==0.0.5
-nltk==3.8.1
-
-# Создание эмбеддингов
-sentence-transformers==2.2.2
-
-# Векторная база данных  
-chromadb==0.4.22
-faiss-cpu==1.7.4
-
-# Работа с OpenAI API
-openai==1.10.0
-
-# Конфигурация и переменные окружения
-python-dotenv==1.0.0
-
-# Интерфейс пользователя
-streamlit==1.30.0
-fastapi==0.108.0
-uvicorn==0.25.0
-
-# Логирование и утилиты
-loguru==0.7.2
-tqdm==4.66.1
-
-# Дополнительные зависимости для обработки изображений (для OCR при необходимости)
-pillow==10.2.0
-pytesseract==0.3.10
-
-# Типизация
-typing-extensions==4.9.0 
+openai==1.84.0 
